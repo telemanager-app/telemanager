@@ -168,4 +168,4 @@ If you want to create the final `TeleManager_Setup.exe` installer yourself, foll
 
 ---
 
-Created with by **[Eyuel Engida](https://github.com/Eul45)**"# telemanager" 
+Created with by **[Eyuel Engida](https://github.com/Eul45)**
