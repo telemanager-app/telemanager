@@ -1,0 +1,23 @@
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*.spec
+
+# --- Build Folders ---
+build/
+dist/
+Release/
+TM_Build/
+
+# --- Private User Data (CRITICAL) ---
+profiles/
+tdata/
+
+# --- Large/External Files ---
+bin/
+*.exe
+*.zip
+
+# --- IDE Settings ---
+.vscode/
+.idea/
