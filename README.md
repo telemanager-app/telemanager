@@ -168,4 +168,10 @@ If you want to create the final `TeleManager_Setup.exe` installer yourself, foll
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 Created with by **[Eyuel Engida](https://github.com/Eul45)**
