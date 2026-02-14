@@ -32,7 +32,7 @@ By leveraging isolated "Portable Profiles," TeleManager ensures every account op
 ## 📥 Installation
 
 ### 1. For Regular Users (Recommended)
-1. Navigate to the **[Releases](https://github.com/Eul45/telemanager/releases)** page.
+1. Navigate to the **[Releases](https://github.com/telemanager-app/telemanager/releases)** page.
 2. Download the latest **`TeleManager_Setup.exe`**.
 3. Follow the installation wizard. The official Telegram client is bundled for your convenience.
 
@@ -44,7 +44,7 @@ To customize or contribute to TeleManager:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Eul45/telemanager.git
+    git clone https://github.com/telemanager-app/telemanager.git
     cd telemanager
     ```
 
